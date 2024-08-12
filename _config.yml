@@ -1,13 +1,13 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+title: 👧🏻❤️📷
+email: "piggie.duk@gmail.com"
+description: "Piggie 🐽's Photography World"
+url: "https://piggie-ariel.github.io/"
+baseurl: "/shutter-bliss"
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
-github_username:  ""
+instagram_username: "dukkkie6"
+github_username:  "piggie-ariel"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Piggie Ariel
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Piggie 🐽's Photography World
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://piggie-ariel.github.io/shutter-bliss/gallery/"  
+  - JOURNAL: "https://piggie-ariel.github.io/shutter-bliss/journal/"
+  - ABOUT: "https://piggie-ariel.github.io/shutter-bliss/about/"
 
 # All translation keys
 translations:
